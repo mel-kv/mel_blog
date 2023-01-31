@@ -18,6 +18,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'mel_blog.blog.apps.BlogConfig',
+    'taggit',
+
 ]
 
 MIDDLEWARE = [
